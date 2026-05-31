@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "29b12672-5a87-43ce-b2a8-3c2cf0d0a334"
+name: "risk-assessment"
+display_name: "Risk Assessment"
+description: "Identifying, categorising, and evaluating risks to product initiatives with mitigation strategies"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-risk-assessment"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
